@@ -4,3 +4,4 @@ def square_array(array)
 #  squared
 #end
   array.collect{|number| number**2}
+end
